@@ -167,6 +167,8 @@ p{
   background-color: var(--med-green);
 }
 
+
+
 #aboutPlants p, #aboutPlants h3, #contactUs p, #contactUs h3{
   color: var(--white);
   padding: 1rem;
